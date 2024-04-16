@@ -36,7 +36,8 @@ Inconsistency arises in the scaling of images within this section. It's advisabl
 
 The footer appears minimalistic and lacking interest. Adding social media links or similar elements could enhance its appeal, though this is subjective and based on personal preference.
 
-Please correct the grammar, and that's all, nothing else, please.
+Please correct the grammar, and that's all, n
+othing else, please.
 
 
 
@@ -77,3 +78,12 @@ Here is a problem that the website becomes inconsistent on the scale of the imag
 ![Footer](./assets/footer.png)
 
 This is just realy boring and minimalistic. I would recommend to add some social media links or something like that, but that is preference.
+
+
+![nobr](./assets/noBr.png)
+
+And please dont use the br tag. It is not good practice.
+
+
+
+Your helping hand @DaniDevOfficial
