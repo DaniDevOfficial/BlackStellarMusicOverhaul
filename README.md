@@ -10,7 +10,7 @@ Adding a favicon is essential for a more professional appearance and improves re
 
 ![Landing Issues](./assets/landing.png)
 
-The main issue here is the background video not being fullscreen, which affects the visual effects negatively. On mobile devices, the problem worsens due to the video being formatted in landscape orientation. Additionally, the logo is an image instead of an SVG, which would ensure consistent high-quality rendering (svgs are not like images with which you get a set amout of pixels. A svg calculates every stroke so it is always high quality).
+The main issue here is that the background video is not fullscreen, which affects the visual effects negatively (for mobile especially). On mobile devices, the problem worsens due to the video being formatted in a landscape orientation. Additionally, the logo is an image instead of an SVG, which would ensure consistent high-quality rendering (svgs are not like images with which you get a set amout of pixels. A svg calculates every stroke so it is always high quality).
 
 ## 3. News Section
 
@@ -22,7 +22,7 @@ The news section is almost perfect, but there are two issues. Firstly, the heade
 
 ![About](./assets/about.png)
 
-A simple fix for this section would be setting the width to 100vw, ensuring it occupies the entire width of the screen. There might be a more optimal solution, but it's too complex to explain at the moment.
+A simple fix for this section would be setting the width to 100vw (currently it is set to 90vw), ensuring it occupies the entire width of the screen.
 
 ## 5. Supervision Section
 
@@ -34,6 +34,6 @@ Inconsistency arises in the scaling of images within this section. It's advisabl
 
 ![Footer](./assets/footer.png)
 
-The footer appears minimalistic and lacking interest. Adding social media links or similar elements like your Logo could enhance its appeal, though this is subjective and based on personal preference.
+The footer appears minimalistic and lacking interest. Adding social media links or similar elements like your Logo could enhance its appeal, though this is subjective and based on personal preference. The TikTok and Instagram handles for example could be shown there!
 
-Your helping hand @DaniDevOfficial
+Your helping hands @DaniDevOfficial @aakset
